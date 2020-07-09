@@ -1,2 +1,4 @@
 Deze maken wij om GIT te testen. Waar is de tekst "aangepast" die ik uitgevoerd heb?
 zo, en nu weer terug naar C:
+
+En nu weer naar boven.
